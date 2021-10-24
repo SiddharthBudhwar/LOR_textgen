@@ -1,5 +1,5 @@
-# Tolkein Text
-Tolkein Text is live [here](https://share.streamlit.io/christian-doucette/tolkein_text)!
+# LOR Text Generator
+LOR Text Generator is live [here](https://share.streamlit.io/christian-doucette/tolkein_text)!
 
 I trained an LSTM neural network language model on *The Lord of the Rings*, and used it for text generation.
 &nbsp;  
