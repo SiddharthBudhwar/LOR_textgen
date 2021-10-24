@@ -2,3 +2,5 @@
 *.pdf
 /data
 /trained_model
+# Ignores all files in __pycache__ folder
+__pycache__/
